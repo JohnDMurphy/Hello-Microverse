@@ -11,8 +11,8 @@
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/JohnDMurphy)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/john-murphy-5020271b5)
+- GitHub: [@JohnDMurphy](https://github.com/JohnDMurphy)
+- LinkedIn: [John Murphy](https://linkedin.com/in/john-murphy-5020271b5)
 
 ## 🤝 Contributing
 
